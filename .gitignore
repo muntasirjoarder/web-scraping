@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+
+.cache/
+scrapy_job.html
+
+.python_history
+.bash_history
